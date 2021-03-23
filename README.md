@@ -12,7 +12,7 @@
 
 这里是社区内的 Session 战场，存放了社区内讲过的 session。
 
-如果你也有一些 Topic 想要分享给大家，请咨询 [@iwfan](https://github.com/iwfan) 和 @gaaragan 👏。
+如果你也有一些 Topic 想要分享给大家，请咨询 [@iwfan](https://github.com/iwfan) 和 [@Gaarahan](https://github.com/Gaarahan) 👏。
 
 如果你暂时没有找到理想的 Topic，但就是想锻炼一下自己的表达。那么也欢迎你来找我们咨询，我们会帮你找到你需要的东西 🪅。
 
